@@ -2,7 +2,7 @@
 ## 문제
 [*문제링크](https://www.acmicpc.net/problem/5073)
 
-![img](https://github.com/saranghein/BaekJoon/assets/98319061/4feca4ae-cb12-487c-9e62-83d21c9afc8b)
+![img](https://github.com/saranghein/BaekJoon/assets/98319061/d6c14204-95d1-4202-818a-faeb0b73a696)
 
 + 세 변의 길이가 모두 같은 경우 -> Equilateral
 + 두 변의 길이만 같은 경우 -> Isosceles
